@@ -31,7 +31,7 @@
 
 <h2>Using</h2>
 
-* Install dependences in archive <a href="">setup.py</a> 
+* Install dependences in archive <a href="">setup.py</a> or <a>install.sh</a> in `linux`.
 
 ```cmd
 cd src
