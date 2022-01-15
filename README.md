@@ -31,17 +31,7 @@
 
 <h2>Using</h2>
 
-* If you use `linux`, start <a href="">install.sh</a> 
-
-```cmd
-cd src
-```
-
-```cmd
-bash install.sh
-```
-
-* If you use `windows`, start <a href="">setup.py</a>
+* Install dependences in archive <a href="">setup.py</a> 
 
 ```cmd
 cd src
